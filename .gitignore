@@ -36,3 +36,5 @@ Library/
 obj/
 Temp/
 bin/
+build/
+Build/
